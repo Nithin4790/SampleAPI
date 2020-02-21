@@ -1,18 +1,17 @@
 {
-	"users":[
-		{
-			"userid":"1",
-			"username":"nithin",
-			"useremail":"nithu.everyyear@gmail.com",
-			"userpassword":"12345",
-			"userphone":"1234567890"
-		},
-		{
-			"userid":"2",
-			"username":"swetha",
-			"useremail":"swetha.pathrabe@gmail.com",
-			"userpassword":"12345",
-			"userphone":"1234567890"
-		}
-	]
+    "weather_stations":
+    [
+        {
+            "code": 331,
+            "name": "ASHNOLA"
+        },
+        {
+            "code" : 334,
+            "name" : "MCCUDDY"
+        },
+        {
+            "code": 328,
+            "name": "PENTICTON RS"
+        }
+    ]
 }
